@@ -11,8 +11,6 @@ import 'package:tflite/tflite.dart';
 import 'dart:io';
 import 'package:fish/ListPage.dart';
 
-// import 'package:skripsifishh/Camera.dart';
-
 void main() => runApp(MaterialApp(
       home: HomeScreen(),
     ));
