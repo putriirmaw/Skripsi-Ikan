@@ -357,20 +357,20 @@ String getLabel(String nama) {
 }
 
 String getDeskripsi(String nama) {
-  if (nama == 'Bandeng') {
-    return '(Chanos chanos) \n Family : Chanidae \n Tempat Hidup : Air Tawar, Air Payau, Air Laut (Lingkungan yang memiliki kadar garam tinggi) \n Ciri-ciri :  ';
+  if (nama == 'Bandeng' ) {
+    return '(Chanos chanos) \n Ikan Bandeng hidup di Samudra Hindia dan Pasifik yang sangat populer di Asia Tenggara bagian pesisir dan pulau yang banyak terumbu koral';
   } else if (nama == 'Cakalang') {
-    return '(Katsuwonus pelamis) \n Family : Skombride \n Tempat Hidup : Air Tawar, Air Payau, Air Laut (Lingkungan yang memiliki kadar garam tinggi) \n Ciri-ciri :  ';
+    return '(Katsuwonus pelamis) \n Ikan Cakalang hidup secara bergerombong yang sering dijumpai di laut subtropis dan tropis seperti Samudra Hindia, Samudra Atlantik dan Samudra Pasifik ';
   }  else if (nama == 'Dorang') {
-    return '( Pampus argenteus) \n Family : Stromateidae \n Tempat Hidup : Air Tawar, Air Payau, Air Laut (Lingkungan yang memiliki kadar garam tinggi) \n Ciri-ciri :  ';
+    return '(Black Pomfret) \n Ikan Dorang / Bawal Hitam berhabitat luas seperti Air Laut, Payau dan Tawar yang memiliki kadar garam sedang. Ikan Dorang banyak ditemukan di sungai Amazon dan sungai Orinoko, Venezuela';
   } else if (nama == 'Kakap') {
-    return '(Lutjanus campechanus) \n Family : Lutjanidae \n Tempat Hidup : Air Tawar, Air Payau, Air Laut (Lingkungan yang memiliki kadar garam tinggi) \n Ciri-ciri : ';
+    return '(Lutjanus bitaeniatus) \n Ikan Kakap Merah ditemukan di Samudra Hidia Timur dekat Sumatre dan Sulawesi serta sebelah barat Teluk Kuri, Australia Barat ';
   } else if (nama == 'Kembung') {
-    return '(Rastrelliger sp) \n Family : Scombridae \n Tempat Hidup : Air Tawar, Air Payau, Air Laut (Lingkungan yang memiliki kadar garam tinggi) \n Ciri-ciri : ';
+    return '(Rastrelliger sp) \n Ikan kembung masih dalam satu marga dengan ikan tongkol, tuna dan makarel. Ikan ini tersebar di perairan Laut Jawa, Kalimantan, Sumatera Barat, dan Selat Malaka yang memiliki suhu perairan >170C ';
   } else if (nama == 'Tenggiri') {
-    return '(Scomberomorus) \n Family : Scombridae \n Tempat Hidup : Air Tawar, Air Payau, Air Laut (Lingkungan yang memiliki kadar garam tinggi) \n Ciri-ciri : ';
+    return '(Scomberomorus sp.) \n Ikan Tenggiri ditemukan di perairan beriklim sedang dan tropis atau sepanjang laut lepas. di indonesia sering ditemukan di kawasan Gorontalo ';
   } else if (nama == 'Tongkol') {
-    return '(Euthynnus affinis) \n Family : Skombride \n Tempat Hidup : Air Tawar, Air Payau, Air Laut (Lingkungan yang memiliki kadar garam tinggi) \n Ciri-ciri : ';
+    return '(Euthynnus affinis) \n Ikan Tongkol dapat ditemukan di dekat wilayah Samudra Hindia, meliputi Afrika Selatan, Somalia, Laut Merah, Laut Arab dan laut laut pedalaman Asia Tenggara dan Nusantara';
   } else {
     return 'Tidak terdeteksi';
   }
