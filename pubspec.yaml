@@ -32,7 +32,6 @@ dependencies:
   path_provider: any
   path: any
   tflite: ^1.1.1
-#  tflite_flutter: ^0.9.0
   flat_icons_flutter: any
   image_picker: any
 
